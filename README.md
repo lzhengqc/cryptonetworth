@@ -6,7 +6,7 @@
 ### How to run the app locally
 
 ```
-git clone git@github.com:will123195/cryptonetworth.git
+git clone git@github.com:lzhengqc/cryptonetworth.git
 cd cryptonetworth
 npm install
 npm run dev
